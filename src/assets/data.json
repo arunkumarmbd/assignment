@@ -1,0 +1,112 @@
+[
+  {
+    "mobileName": "iPhone 13 Pro",
+    "MRP": "999.99",
+    "offerPercentage": 10,
+    "priceAfterOffer": "899.99",
+    "rating": 4.5,
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg",
+    "memoryStorage": "64GB/6GB RAM",
+    "description": "The iPhone 13 Pro is a powerful and feature-packed smartphone with a large 6.7-inch display and powerful performance. It comes with 6GB of RAM and 64GB of storage, making it suitable for both casual users and power users."
+  },
+  {
+    "mobileName": "Samsung Galaxy S22",
+    "MRP": "799.99",
+    "offerPercentage": 15,
+    "priceAfterOffer": "679.99",
+    "rating": 4.2,
+    "imageUrl": "https://tiimg.tistatic.com/fp/2/007/735/samsung-galaxy-s22-5g-phantom-black-8gb-128gb-storage-16-33cm-screen-size-949.jpg",
+    "memoryStorage": "128GB/8GB RAM",
+    "description": "The Samsung Galaxy S22 is a flagship smartphone with a stunning 6.2-inch display and powerful performance. It comes with 8GB of RAM and 128GB of storage, making it suitable for heavy users who need a lot of storage and memory."
+  },
+  {
+    "mobileName": "Google Pixel 6",
+    "MRP": "699.99",
+    "offerPercentage": 12,
+    "priceAfterOffer": "615.99",
+    "rating": 4.8,
+    "imageUrl": "https://images-cdn.ubuy.co.in/65237e4849f2563e8662d382-pre-owned-google-pixel-6-pro-fully.jpg",
+    "memoryStorage": "64GB/6GB RAM",
+    "description": "The Google Pixel 6 is a high-end smartphone with a large 6.2-inch display and powerful performance. It comes with 6GB of RAM and 64GB of storage, making it suitable for power users who need a lot of storage and memory."
+  },
+  {
+    "mobileName": "OnePlus 9 Pro",
+    "MRP": "899.99",
+    "offerPercentage": 8,
+    "priceAfterOffer": "826.99",
+    "rating": 4.6,
+    "imageUrl": "https://images-cdn.ubuy.co.in/635886f52707a757114b6ad8-oneplus-9-pro-8gb-256gb-smartphone.jpg",
+    "memoryStorage": "128GB/8GB RAM",
+    "description": "The OnePlus 9 Pro is a powerful and feature-packed smartphone with a large 6.7-inch display and powerful performance. It comes with 8GB of RAM and 128GB of storage, making it suitable for heavy users who need a lot of storage and memory."
+  },
+  {
+    "mobileName": "Huawei P30 Pro",
+    "MRP": "799.99",
+    "offerPercentage": 18,
+    "priceAfterOffer": "655.99",
+    "rating": 4.4,
+    "imageUrl": "https://images-cdn.ubuy.co.in/634392e332d8952ab327fd09-huawei-p30-pro-128gb-8gb-ram-vog-l29.jpg",
+    "memoryStorage": "128GB/8GB RAM",
+    "description": "The Huawei P30 Pro is a high-end smartphone with a stunning 6.6-inch display and powerful performance. It comes with 8GB of RAM and 128GB of storage, making it suitable for heavy users who need a lot of storage and memory."
+  },
+  {
+    "mobileName": "Xiaomi Redmi Note 10",
+    "MRP": "299.99",
+    "offerPercentage": 20,
+    "priceAfterOffer": "239.99",
+    "rating": 4.1,
+    "imageUrl": "https://images-cdn.ubuy.co.in/65400e09f8f9760738664497-xiaomi-redmi-note-10-pro-4g-global.jpg",
+    "memoryStorage": "64GB/4GB RAM",
+    "description": "The Xiaomi Redmi Note 10 is a budget-friendly smartphone with a large 6.5-inch display and decent performance. It comes with 4GB of RAM and 64GB of storage, making it suitable for casual users who need a reliable device."
+  },
+  {
+    "mobileName": "Oppo Reno Ace",
+    "MRP": "499.99",
+    "offerPercentage": 15,
+    "priceAfterOffer": "424.99",
+    "rating": 4.3,
+    "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/ace_top.JPG",
+    "memoryStorage": "128GB/8GB RAM",
+    "description": "The Oppo Reno Ace is a mid-range smartphone with a large 6.5-inch display and fast charging capabilities. It comes with 8GB of RAM and 128GB of storage, making it suitable for users who need a device with a balance of performance and affordability."
+  },
+  {
+    "mobileName": "Vivo X60 Pro",
+    "MRP": "699.99",
+    "offerPercentage": 10,
+    "priceAfterOffer": "629.99",
+    "rating": 4.5,
+    "imageUrl": "https://cellularkenya.co.ke/wp-content/uploads/2022/05/vivo-x60-pro.jpeg",
+    "memoryStorage": "128GB/8GB RAM",
+    "description": "The Vivo X60 Pro is a high-end smartphone with a large 6.5-inch display and powerful performance. It comes with 8GB of RAM and 128GB of storage, making it suitable for heavy users who need a lot of storage and memory."
+  },
+  {
+    "mobileName": "Clear case",
+    "MRP": "39.00",
+    "offerPercentage": 50,
+    "priceAfterOffer": "19.99",
+    "rating": 4.5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDbvc0YbT0O5WIw4J6uW2v3DF7huSwMu7Rw&s",
+    "memoryStorage": "",
+    "description": "The Clear case is a high-end smartphone with a large 6.5-inch display and powerful performance."
+  },
+  {
+    "mobileName": "Wireless Earphone",
+    "MRP": "138.00",
+    "offerPercentage": 40,
+    "priceAfterOffer": "40.99",
+    "rating": 4.5,
+    "imageUrl": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard2_1.png?v=1697110064",
+    "memoryStorage": "",
+    "description": "The wireless earphone provides high dynamic sound and powerful performance."
+  },
+  {
+    "mobileName": "Tripod",
+    "MRP": "163.00",
+    "offerPercentage": 30,
+    "priceAfterOffer": "70.99",
+    "rating": 4.5,
+    "imageUrl": "https://cdn.gitzo.com/media/catalog/product/cache/50294efa952a939bca81e4365dc1e09d/g/i/gitzo-tripod-and-head-ball-head-series-4-gt5543ls-gh4383lr-kit.jpg",
+    "memoryStorage": "",
+    "description": "The tripod is vercityle and easy to use. Metalic build and durabllity."
+  }
+]

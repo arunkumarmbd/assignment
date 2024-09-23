@@ -1,0 +1,102 @@
+/* Plans one start */
+
+.plansbox {background-color: #f0f6fe;
+    padding: 100px 0;
+    display: flex;
+    align-items: center;}
+    
+.plansbox .plans-main h2{ text-align: center;}
+.plansbox .plans-main .nav-pills {
+        margin: 20px auto;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        background-color: #fff;
+        max-width: 321px;
+        border-radius: 30px;
+        border: 2px solid #4187f7;
+        padding: 2px 0px;
+}
+.nav-pills .nav-link.active, .plansbox .plans-main .nav-pills .show>.nav-link {
+        color: #fff;
+        background-color: #4187f7;
+        border-radius: 30px;
+        border: 2px solid #4187f7;
+}
+.plansbox .plans-main .tab-content  .tab-pane{    margin-top: 50px;}
+.plansbox .plans-main .tab-content  .tab-pane .plansstart{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px;    
+}
+.plansbox .plans-main .tab-content .tab-pane .plansstart div {
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 5px 0px #cbcbcb;
+}
+
+.plansbox .plans-main .tab-content .tab-pane .plansstart div:hover{
+    /* margin-top: -20px; */
+    box-shadow: 0px 0px 5px 0px #7e7e7e;
+}
+
+.plansbox .plans-main .tab-content .tab-pane .plansstart div h4 {
+    text-align: center;
+    margin: 0;
+    font-weight: 700;
+}
+.plansbox .plans-main .tab-content .tab-pane .plansstart div p {
+    margin: -4px auto 0px;
+    text-align: center;
+    color: #5c5c5c;
+    font-weight: 600;
+}
+
+.plansbox .plans-main .tab-content .tab-pane .plansstart div .pricingtat {
+    padding: 0;
+    text-align: center;
+    box-shadow: none;
+    margin: 30px 0;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.plansbox .plans-main .tab-content .tab-pane .plansstart div .pricingtat sup.currency, .plansbox .plans-main .tab-content .tab-pane .plansstart div .pricingtat sub.duration {
+    font-weight: normal;
+}
+
+.plansbox .plans-main .tab-content .tab-pane .plansstart ul{    margin: 0;    padding: 0;    list-style: none;}
+.plansbox .plans-main .tab-content .tab-pane .plansstart ul li {
+    position: relative;
+    margin-left: 30px;
+}
+.plansbox .plans-main .tab-content .tab-pane .plansstart ul li:before {
+    content: "\f00c";
+    font-family: "FontAwesome";
+    position: absolute;
+    left: -30px;
+}
+
+a.signup-bt{
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+@media (max-width:991px){
+    .plansbox .plans-main .tab-content  .tab-pane .plansstart{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width:575px){
+    .plansbox .plans-main .tab-content  .tab-pane .plansstart{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+
+
+    /* Plans one End */
+
+
+

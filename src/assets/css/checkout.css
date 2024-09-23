@@ -1,0 +1,234 @@
+.checkoutdesign2 .accordion-header .accordion-button {
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #010c3a;
+    box-shadow: 3px 3px 5px #ddd;
+    background: #fff;
+}
+
+.checkoutdesign2 .accordion-header .accordion-button:not(.collapsed) {
+    background: #f9f9f9;
+    color: #0d6efd;
+}
+
+.checkoutdesign2 .accordion-header .accordion-button::after {
+    content: "\2b";
+    background-image: none;
+    font-family: 'FontAwesome';
+    font-weight: 900;
+}
+
+.checkoutdesign2 .accordion-header .accordion-button:not(.collapsed)::after {
+    content: "\f068";
+    background-image: none;
+    font-family: 'FontAwesome';
+    font-weight: 900;
+}
+
+.checkoutstepper > .d-flex.mb-1:before  {
+    content: "";
+    border-left: 2px solid #ccc;
+    position: relative;
+    left: 20px;
+    top: 24px;
+}
+
+.checkoutstepper > .d-flex.mb-1.lastsection:before{
+    content: "";
+    border-left: 2px solid #ccc;
+    position: relative;
+    left: 20px;
+    top: -6px;
+}
+
+.checkoutstepper .form-control, .checkoutstepper .form-select{line-height: 2;}
+
+.checkoutstepper .rounded-circle {
+    border-radius: 50%!important;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    background-color: #4187f7 !important
+}
+
+.checkoutstepper .buttomGroup .pricing-sections .btn-style-four{
+    padding: 6px 30px;
+    min-width: 150px;
+}
+
+
+.checkoutsection .nav-tabs .nav-link {
+    background: #f6f7fb;
+    border: 0;
+    border-bottom: 2px solid #dddddd;
+    padding: 15px 7px;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #0c0f13;
+    border-right: 0.1px solid #e0e1e5;
+    font-weight: 500;
+}
+
+.checkoutsection .nav-tabs .nav-link.active {
+    background: #deefe9 !important;
+    border-bottom-color: #0d6efd;
+}
+
+.deviceSection {
+    background: #ebebeb;
+}
+
+.checkoutsection .nav-tabs {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.customCheckoutForms {
+    padding: 20px;
+}
+
+.customCheckoutForms label {
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+.customCheckoutForms .form-control {
+    padding: 12px;
+}
+
+.customCheckoutForms .customBtns {
+    padding: 11.5px 45px;
+}
+
+.shippingMethodAdd {
+    display: flex;
+    gap: 110px;
+}
+
+.imageTitleImage {
+    width: 120px;
+}
+
+.imageTitleImage img {
+    width: 70px;
+}
+
+ul.ullisted li {
+    position: relative;
+}
+
+ul.ullisted li:before {
+    content: "\f00c";
+    font-family: 'FontAwesome';
+    position: absolute;
+    left: -27px;
+    top: 0;
+}
+
+.imageTitle {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    gap: 10px;
+    align-items: center;
+}
+
+.billingItem {
+    gap: 40px;
+}
+
+.yourcartdesign {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #4187f7;
+    padding: 15px 20px;
+}
+.orderSummary.design2 .yourcartdesign h4 {
+    padding: 0;
+    border: 0px;
+}
+
+.yourcartdesign .editIcon a.text-primary {
+    color: #fff !important;
+    font-size: 13px;
+}
+
+.tatalprice{
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #4187f7;
+    color: #fff;
+}
+
+.deviceSection .orderSummaryInner {
+    padding: 15px 15px 0;
+}
+.checkoutstepper{
+    justify-content: space-between;
+    background: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 17px #ddd;
+    border-radius: 3px;
+}
+.checkoutstepper > .d-flex.mb-1 {
+    margin: 0px 0 0px!important;
+    /* padding-bottom: 10px; */
+}
+.checkoutinfo{width: 100%;}
+.checkoutinfo h4 {
+    margin: 30px 15px 10px;
+}
+.disable h4 + .row {
+    display: none;
+}
+
+.checkoutstepper .buttomGroup .pricing-sections {
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+}
+
+/* .checkoutstepper .line {
+    width: 2px;
+    background-color: lightgrey !important;
+  }
+  .checkoutstepper .lead {
+    font-size: 1.1rem;
+  } */
+
+  .checkoutstepper .align-items-center{z-index: 1;    margin-top: 24px;}
+
+/* Responsive */
+@media (max-width:1400px) {
+
+    .imageTitleImage {
+        width: 40px;
+    }
+
+    .imageTitlehead,
+    .checkoutpages .billingprice,
+    .checkoutpages .billingHead {
+        font-size: 14px;
+    }
+
+    .checkoutpages .billingHead.fw-bold.fs-3,
+    .checkoutpages .billingprice.fw-bold.fs-3 {
+        font-size: 25px !important;
+    }
+}
+
+@media (max-width:767px) {
+    .checkoutsection .nav-tabs {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
